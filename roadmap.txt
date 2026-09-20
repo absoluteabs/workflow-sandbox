@@ -1,10 +1,6 @@
 PROJECT ROADMAP
 
 1. Establish repository workflow.
-<<<<<<< HEAD
 2.Yarab esle7 el7al
-=======
-2.yarab wafa2 elkol
->>>>>>> feature/roadmap
 3. Review changes before integration.
 4. Keep project history concise.
